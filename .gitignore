@@ -118,7 +118,7 @@ Thumbs.db
 # Project specific
 data/ml-latest-small/
 data/*.zip
-models/*.pkl
+# models/*.pkl
 *.log
 
 # Streamlit
