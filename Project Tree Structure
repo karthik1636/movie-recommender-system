@@ -1,0 +1,45 @@
+Here is the full file tree of your project. I've excluded virtual environment folders (.venv) and cache directories (__pycache__) to keep it clean.
+
+movie-recommender/
+├── .git/
+├── .github/
+│   └── workflows/
+│       └── ci.yml
+├── api/
+│   ├── __init__.py
+│   ├── main.py
+│   └── recommender.py
+├── data/
+│   └── ml-latest-small/
+│       ├── links.csv
+│       ├── movies.csv
+│       ├── ratings.csv
+│       ├── README.txt
+│       └── tags.csv
+├── models/
+│   └── recommender.pkl
+├── scripts/
+│   ├── __init__.py
+│   └── deploy.py
+├── tests/
+│   ├── __init__.py
+│   └── test_recommender.py
+├── utils/
+│   ├── __init__.py
+│   ├── logger.py
+│   ├── monitoring.py
+│   └── security.py
+├── .gitignore
+├── aws-deploy.sh
+├── config.py
+├── database.py
+├── DEPLOYMENT_GUIDE.md
+├── docker-compose.prod.yml
+├── docker-compose.yml
+├── Dockerfile
+├── GITHUB_SETUP.md
+├── movie_recommender.db
+├── README.md
+├── requirements.txt
+├── streamlit_app.py
+└── streamlit_app_enhanced.py
