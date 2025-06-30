@@ -2,6 +2,8 @@
 
 A production-ready movie recommendation system built with Python, featuring collaborative filtering, AI-powered recommendations, user authentication, and watchlist management. Perfect for local development and cloud deployment.
 
+Link: https://movie-recommender-system-nwgrnxxqgkvx9c8bpfzmmv.streamlit.app/ 
+
 ## 🚀 Features
 
 ### **Core Recommendation Engine**
