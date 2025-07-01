@@ -8,6 +8,10 @@ Link: https://movie-recommender-system-nwgrnxxqgkvx9c8bpfzmmv.streamlit.app/
 
 
 
+https://github.com/user-attachments/assets/c830dfa2-478f-4881-8cc0-9f7d7f660420
+
+
+
 ## Snapshots
 
 <img width="940" alt="image" src="https://github.com/user-attachments/assets/9398fe70-9ea7-4563-a6d4-740edfad747c" />
